@@ -12,6 +12,7 @@
 > * XR Device Simulator : Vr기기 없이 테스트 할 수 있는 Sinulator를 제공해준다.
 
 ### XR Plugin Management 설치
+<hr>
 ![xr_plugin_management](https://user-images.githubusercontent.com/90584642/167621705-4e35056f-c35e-4eb7-a66f-095d208983b9.png)
 
 
