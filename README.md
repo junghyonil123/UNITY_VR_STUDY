@@ -4,6 +4,7 @@
 
 ### XR Interaction Toolkit 설치
 <hr>
+
 ![interaction_toolkit](https://user-images.githubusercontent.com/90584642/167621651-cfe2975e-6968-45b2-9eb5-c0f91ca0e3b4.png)
 
 
@@ -13,6 +14,7 @@
 
 ### XR Plugin Management 설치
 <hr>
+
 ![xr_plugin_management](https://user-images.githubusercontent.com/90584642/167621705-4e35056f-c35e-4eb7-a66f-095d208983b9.png)
 
 
@@ -21,6 +23,7 @@
 
 ### XR Plugin Management 세팅
 <hr>
+
 ![xr_plugin_setting](https://user-images.githubusercontent.com/90584642/167621732-655c4e4f-4ed7-4f47-b732-cd2f49ebed4c.png)
 
 
@@ -28,6 +31,7 @@
 
 ### Input Action Manager 생성
 <hr>
+
 ![input_Action_manager](https://user-images.githubusercontent.com/90584642/167791441-0a3665c0-54b8-4fa3-afe4-dbca5f920e38.png)
  
 >Input Action Manager는 Vr에서의 입력을 받아주는 역할을 한다.
