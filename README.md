@@ -23,3 +23,11 @@
 
 
 >Project Settings -> XR Plug-in Management 에서 Oculus (알맞은 기종) 을 선택 
+
+### Input Action Manager 생성
+
+![input_Action_manager](https://user-images.githubusercontent.com/90584642/167791441-0a3665c0-54b8-4fa3-afe4-dbca5f920e38.png)
+ 
+>Input Action Manager는 Vr에서의 입력을 받아주는 역할을 한다.
+> * Hierarchy 탭에서 Empty 를 생성후 Input Action Manager 컴포넌트를 추가
+> * Input Action Manager 의 Action Assets 에 Default Input Action 추가
