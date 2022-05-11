@@ -1,5 +1,3 @@
-# Unity XR Interaction Toolkit 사용법
-
 # 1. 기본세팅
 
 ## XR Interaction Toolkit 설치
